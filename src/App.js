@@ -1,5 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+
+// ***NOTES***
+// Cognito - AWS Auth
+// User pools - Serverless managed service for users (Facebook, Google, Amazon)
+// Identity pools - AWS permissioned users
+// Amplify can scaffold auth for React, React-Native, Vue, Angular
 
 function App() {
   return (
